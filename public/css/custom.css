@@ -1,0 +1,8 @@
+.album_cover, .photo  {
+    width: 525px;
+    height: 350px;
+}
+
+.photo, .photo_title, .album_name, .album_cover {
+    margin-bottom: 20px;
+}
